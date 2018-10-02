@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author VIKASSAI
+ *
+ */
+module javatraining {
+}
